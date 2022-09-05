@@ -135,4 +135,5 @@ const PhotoList = ({ category }) => {
     </div>
   );
 };
+
 export default PhotoList;
